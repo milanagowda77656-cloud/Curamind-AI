@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""CuraMind AI - Django Management Utility"""
+"""CuraMind AI - Django Manageme nt Utility"""
 
 import os
 import sys
